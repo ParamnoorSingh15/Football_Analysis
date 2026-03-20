@@ -1,0 +1,6 @@
+cv_env/
+models/
+runs/
+base/
+input_videos/
+training/
